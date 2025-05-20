@@ -22,4 +22,3 @@ Ce projet m’a permis de pratiquer les bases du **HTML** et du **CSS**, avec un
 ## 📁 Structure
 
 Il s’agit d’un projet 100% statique, sans JavaScript.  
-Les fichiers sont organisés pour faciliter la lecture du code et la compréhension de la structure globale.
